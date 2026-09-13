@@ -1,0 +1,4 @@
+在 Railway 网页设置，不要把真实密码上传 GitHub。
+DATABASE_URL：见部署指南，引用数据库服务的密码与地址。
+APP_PASSWORD：自己设置至少 16 个字符的网站密码。
+PORT：Railway 自动提供，无需填写。
